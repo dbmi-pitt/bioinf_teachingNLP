@@ -3,11 +3,11 @@ This repository contains the materials for the submission 'Introducing Informati
 ## Getting started
 
 ### Prerequisites
-1. Python virtual environment or conda environment with python=3.8
-2. Prerequisite files:
+1. Create a Python virtual environment or conda environment with python=3.8
+2. Clone the repository
 
 ### Install packages
-1. Requirements file available [here](https://github.com/sanyabt/bioinf_teachingNLP/blob/main/requirements.txt)
+1. Using the requirements file available [here](https://github.com/sanyabt/bioinf_teachingNLP/blob/main/requirements.txt), run the following command to install all packages and dependencies in the Python environment.
 
 ```python -m pip install -r requirements.txt```
 
@@ -18,3 +18,10 @@ or
 2. NLTK corpus/data download
 
 ### Running the notebooks
+
+
+## For instructors
+
+## FAQ
+
+## Citation/License
