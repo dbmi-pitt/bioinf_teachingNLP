@@ -27,6 +27,7 @@ In a Python shell, run
 Once the NLTK Downloader window opens, select 'All packages' in the Collections tab and click Download. For more information, see [nltk.org](https://www.nltk.org/data.html)
 
 * **word2vec as a service**
+
 [Notebook 2](https://github.com/dbmi-pitt/bioinf_teachingNLP/blob/master/notebooks/Information%20Retrieval%20-%20NLP%20Part%20II%20Word%20Embedding.ipynb) uses word2vec service through a Docker container to create word embeddings. To set up -
 
 1. Clone the Github repository https://github.com/vampolo/word2vec-service.git 
