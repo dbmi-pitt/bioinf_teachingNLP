@@ -17,6 +17,7 @@ This repository contains the materials for the submission 'Introducing Informati
 2. Python virtual environment
 
     a. Install virtualenv
+
         ```python -m pip install --user virtualenv```
 
     b. Create venv with <env_name>
@@ -29,6 +30,7 @@ This repository contains the materials for the submission 'Introducing Informati
         ```py -m venv <env_name>```
 
     c. Activate venv and install requirements.txt
+
         ```source <env_name>/bin/activate```
 
         ```python3 -m pip install --user virtualenv```
@@ -36,7 +38,9 @@ This repository contains the materials for the submission 'Introducing Informati
 3. Conda virtual environment
 
     ```conda create -n <env_name> python=3.7```
+
     ```conda activate <env_name>```
+
     ```python -m pip install -r requirements.txt```
 
 All data required for the NLTK section will be downloaded, but to download more 
