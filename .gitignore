@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+*.swp
+*.bz2
+*.tar*
+BertCasedFineTunedMedNLI
+clinBertFineTunedMedNLI
+w2v_words.pickle
