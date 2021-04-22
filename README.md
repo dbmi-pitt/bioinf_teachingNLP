@@ -14,7 +14,7 @@ This repository contains the materials for the submission 'Introducing Informati
 
     ```python -m pip install -r requirements.txt```
 
-2. Python virtual environment
+2. If creating new Python virtual environment:
 
 * a. Install virtualenv
 
@@ -43,12 +43,9 @@ This repository contains the materials for the submission 'Introducing Informati
 
     ```python -m pip install -r requirements.txt```
 
-All data required for the NLTK section will be downloaded, but to download more 
-NLTK data. 
-
 * **NLTK data download with interactive installer**
 
-In a Python shell, run
+All data required for the NLTK code will be downloaded in the notebooks. To download rest of the NLTK data (optional), run the following in a Python shell:
 
 ```python
 >>> import nltk
