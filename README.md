@@ -21,9 +21,11 @@ This repository contains the materials for the submission 'Introducing Informati
 
     b. Create venv with <env_name>
         MacOs and Linux
+
         ```python -m venv <env_name>```
 
         Windows
+
         ```py -m venv <env_name>```
 
     c. Activate venv and install requirements.txt
@@ -32,6 +34,7 @@ This repository contains the materials for the submission 'Introducing Informati
         ```python3 -m pip install --user virtualenv```
 
 3. Conda virtual environment
+
     ```conda create -n <env_name> python=3.7```
     ```conda activate <env_name>```
     ```python -m pip install -r requirements.txt```
