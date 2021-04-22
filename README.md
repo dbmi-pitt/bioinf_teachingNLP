@@ -16,20 +16,20 @@ This repository contains the materials for the submission 'Introducing Informati
 
 2. Python virtual environment
 
-    a. Install virtualenv
+* a. Install virtualenv
 
         ```python -m pip install --user virtualenv```
 
-    b. Create venv with <env_name>
-        MacOs and Linux
+* b. Create venv with <env_name>
+    * MacOs and Linux
 
         ```python -m venv <env_name>```
-
-        Windows
+        
+    * Windows
 
         ```py -m venv <env_name>```
 
-    c. Activate venv and install requirements.txt
+* c. Activate venv and install requirements.txt
 
         ```source <env_name>/bin/activate```
 
