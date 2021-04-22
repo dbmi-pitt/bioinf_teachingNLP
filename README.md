@@ -8,13 +8,36 @@ This repository contains the materials for the submission 'Introducing Informati
 * Download and unzip the fine tuned models in files [clinBertFineTunedMedNLI](https://pitt-my.sharepoint.com/:u:/g/personal/rdb20_pitt_edu/ERtr_i2399RAsCayQ1WBfj8BXqs66w3fiHQ67xvG6k_aSw) and [BertCasedFineTunedMedNLI](https://pitt-my.sharepoint.com/:u:/g/personal/rdb20_pitt_edu/ETgDk3QZimNKv3SW5eTWTfIBmDkn_f3LzMUhwHVa4KElsw). These are used in [Notebook 3](https://github.com/dbmi-pitt/bioinf_teachingNLP/blob/master/notebooks/Information%20Retrieval%20-%20NLP%20Part%20III%20BERT.ipynb).
 
 ### Install packages
-* **Using the requirements file available [here](https://github.com/sanyabt/bioinf_teachingNLP/blob/main/requirements.txt), run the following command to install all packages and dependencies in the Python environment.**
+* **Using the requirements file available [here](https://github.com/dbmi-pitt/bioinf_teachingNLP/blob/master/requirements.txt), run the following command to install all packages and dependencies in the Python environment.**
 
-```python -m pip install -r requirements.txt```
+1. Default Python install 
 
-or
+    ```python -m pip install -r requirements.txt```
 
-```conda create --name <envname> --file requirements.txt```
+2. Python virtual environment
+
+    a. Install virtualenv
+        ```python -m pip install --user virtualenv```
+
+    b. Create venv with <env_name>
+        MacOs and Linux
+        ```python -m venv <env_name>```
+
+        Windows
+        ```py -m venv <env_name>```
+
+    c. Activate venv and install requirements.txt
+        ```source <env_name>/bin/activate```
+
+        ```python3 -m pip install --user virtualenv```
+
+3. Conda virtual environment
+    ```conda create -n <env_name> python=3.7```
+    ```conda activate <env_name>```
+    ```python -m pip install -r requirements.txt```
+
+All data required for the NLTK section will be downloaded, but to download more 
+NLTK data. 
 
 * **NLTK data download with interactive installer**
 
