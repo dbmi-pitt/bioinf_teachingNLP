@@ -63,9 +63,7 @@ Once the NLTK Downloader window opens, select 'All packages' in the Collections 
 3. Run ```sudo docker-compose up -d```
 
 ### Running the notebooks
-All notebooks can be executed using Jupyter notebook or JupyterLab in the Python environment. For more details on how instructors can set up the notebooks as assignments, see below.
-
-## For instructors
+All notebooks can be executed using Jupyter notebook or JupyterLab in the Python environment with the above setup instructions.
 
 ## Troubleshoot
 
