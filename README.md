@@ -83,6 +83,7 @@ nltk.download()
 ```
 
 ## Citation/License
+```
 @inproceedings{taneja-etal-2021-introducing,
     title = "Introducing Information Retrieval for Biomedical Informatics Students",
     author = "Taneja, Sanya  and
@@ -98,3 +99,4 @@ nltk.download()
     pages = "96--98",
     abstract = "Introducing biomedical informatics (BMI) students to natural language processing (NLP) requires balancing technical depth with practical know-how to address application-focused needs. We developed a set of three activities introducing introductory BMI students to information retrieval with NLP, covering document representation strategies and language models from TF-IDF to BERT. These activities provide students with hands-on experience targeted towards common use cases, and introduce fundamental components of NLP workflows for a wide variety of applications.",
 }
+```
