@@ -1,4 +1,6 @@
-This repository contains the materials for the submission 'Introducing Information Retrieval for Biomedical Informatics Students' presented at the Fifth Workshop on Teaching NLP @ NAACL 2021. Link to paper - https://www.aclweb.org/anthology/2021.teachingnlp-1.16/.
+This repository contains the materials for the submission 'Introducing Information Retrieval for Biomedical Informatics Students' presented at the Fifth Workshop on Teaching NLP @ NAACL 2021. 
+* Paper - https://www.aclweb.org/anthology/2021.teachingnlp-1.16/
+* Poster - https://sanyabt.github.io/files/talks/NAACL_2021.pdf
 
 ## Getting started
 
